@@ -1,0 +1,16 @@
+.OddNoText{
+    background-color: rgb(253, 136, 136);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.OddNoText.two{
+    font-size: 24px;
+}
+#not{
+    color: rgb(0, 0, 245);
+    font-size: 36px;
+}
+#nof{
+    background-color: rgb(103, 253, 103);
+    font-weight: 700;
+    font-size: 24px;
+}
