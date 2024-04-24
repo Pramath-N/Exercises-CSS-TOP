@@ -24,3 +24,25 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Attempt */
+
+.title{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  gap: 32px;
+  max-width: 900px;
+}
+
+.textCon{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
